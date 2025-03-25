@@ -1,0 +1,2470 @@
+{
+    "recipes": [
+        {
+            "id": 51,
+            "dish_name": "Creamy Spinach Salmon",
+            "dish_type": "Main",
+            "taste_category": "Savory",
+            "ingredients": [
+                "2 salmon fillets",
+                "1 cup fresh spinach, chopped",
+                "1/2 cup heavy cream",
+                "2 cloves garlic, minced",
+                "1 tablespoon olive oil",
+                "1 tablespoon butter",
+                "Salt to taste",
+                "Black pepper to taste",
+                "1 teaspoon lemon juice"
+            ],
+            "instructions": [
+                "Heat olive oil and butter in a pan over medium heat.",
+                "Season salmon fillets with salt and pepper, then sear for 3-4 minutes on each side until golden. Remove and set aside.",
+                "In the same pan, sauté garlic until fragrant, about 1 minute.",
+                "Add chopped spinach and cook until wilted, about 2 minutes.",
+                "Pour in heavy cream, stir, and simmer for 3-4 minutes until thickened.",
+                "Return salmon to the pan, spoon sauce over it, and cook for another 2 minutes.",
+                "Drizzle with lemon juice and serve hot."
+            ],
+            "country_of_origin": "Unknown",
+            "prep_time": "10 minutes",
+            "cook_time": "15 minutes",
+            "yield": "2 servings",
+            "public_url": "https://drive.google.com/file/d/1A1BVcaCIzoGewN9oyA-Qc1tZZdLNZ_bE/view?usp=sharing"
+        },
+        {
+            "id": 52,
+            "dish_name": "Weekend Lunch 2",
+            "dish_type": "Main",
+            "taste_category": "Savory",
+            "ingredients": [
+                "500 grams chicken thighs",
+                "2 cups rice",
+                "1 onion, sliced",
+                "2 tomatoes, chopped",
+                "1 tablespoon ginger-garlic paste",
+                "1 teaspoon cumin seeds",
+                "1 teaspoon turmeric powder",
+                "1 teaspoon garam masala",
+                "3 tablespoons oil",
+                "Salt to taste",
+                "Fresh cilantro for garnish"
+            ],
+            "instructions": [
+                "Heat oil in a pot, add cumin seeds, and let them splutter.",
+                "Add sliced onion and sauté until golden brown.",
+                "Stir in ginger-garlic paste and cook for 1 minute.",
+                "Add chopped tomatoes, turmeric, and salt; cook until tomatoes soften.",
+                "Add chicken thighs and cook until browned on all sides.",
+                "Stir in rice, garam masala, and 4 cups of water. Bring to a boil.",
+                "Reduce heat, cover, and simmer for 20 minutes until rice and chicken are cooked.",
+                "Garnish with cilantro and serve hot."
+            ],
+            "country_of_origin": "Unknown",
+            "prep_time": "15 minutes",
+            "cook_time": "30 minutes",
+            "yield": "4 servings",
+            "public_url": "https://drive.google.com/file/d/1LvsPIhFqpUcev_nrdJ68IKWfdkvwXFOx/view?usp=sharing"
+        },
+        {
+            "id": 53,
+            "dish_name": "Tiramisu",
+            "dish_type": "Dessert",
+            "taste_category": "Sweet",
+            "ingredients": [
+                "200 grams mascarpone cheese",
+                "1 cup heavy cream",
+                "1/2 cup sugar",
+                "1 cup strong coffee, cooled",
+                "2 tablespoons coffee liqueur (optional)",
+                "24 ladyfinger biscuits",
+                "2 tablespoons cocoa powder",
+                "1 teaspoon vanilla extract"
+            ],
+            "instructions": [
+                "Whip heavy cream with sugar and vanilla extract until stiff peaks form.",
+                "Fold in mascarpone cheese until smooth.",
+                "Mix coffee and coffee liqueur in a shallow dish.",
+                "Dip ladyfingers briefly in the coffee mixture and layer them in a dish.",
+                "Spread half the mascarpone mixture over the ladyfingers.",
+                "Repeat with another layer of soaked ladyfingers and top with remaining mascarpone mixture.",
+                "Dust with cocoa powder and refrigerate for at least 4 hours before serving."
+            ],
+            "country_of_origin": "Italy",
+            "prep_time": "20 minutes",
+            "cook_time": "0 minutes",
+            "yield": "6 servings",
+            "public_url": "https://drive.google.com/file/d/1H-RLOluW-A6ZStzBkfO-Yq-nHjnDAbmr/view?usp=sharing"
+        },
+        {
+            "id": 54,
+            "dish_name": "Shrimp Ghee Roast",
+            "dish_type": "Main",
+            "taste_category": "Spicy",
+            "ingredients": [
+                "500 grams shrimp, peeled and deveined",
+                "3 tablespoons ghee",
+                "1 tablespoon ginger-garlic paste",
+                "1 teaspoon turmeric powder",
+                "2 teaspoons red chili powder",
+                "1 teaspoon cumin powder",
+                "1 teaspoon coriander powder",
+                "1 tablespoon tamarind paste",
+                "Salt to taste",
+                "Fresh curry leaves for garnish"
+            ],
+            "instructions": [
+                "Marinate shrimp with turmeric, salt, and ginger-garlic paste for 20 minutes.",
+                "Heat ghee in a pan, add curry leaves, and let them splutter.",
+                "Add marinated shrimp and cook until they turn pink, about 5 minutes.",
+                "Stir in red chili powder, cumin powder, coriander powder, and tamarind paste.",
+                "Cook on medium heat until the masala coats the shrimp and oil separates, about 5-7 minutes.",
+                "Garnish with more curry leaves and serve hot."
+            ],
+            "country_of_origin": "India",
+            "prep_time": "25 minutes",
+            "cook_time": "15 minutes",
+            "yield": "4 servings",
+            "public_url": "https://drive.google.com/file/d/1IepdHpb8PMDAC4KPa8XVoDMLhNeLq47b/view?usp=sharing"
+        },
+        {
+            "id": 55,
+            "dish_name": "Tandoori Pomfret",
+            "dish_type": "Main",
+            "taste_category": "Spicy",
+            "ingredients": [
+                "2 whole pomfret fish, cleaned",
+                "1 cup yogurt",
+                "1 tablespoon ginger-garlic paste",
+                "1 teaspoon red chili powder",
+                "1 teaspoon turmeric powder",
+                "1 teaspoon garam masala",
+                "1 tablespoon lemon juice",
+                "2 tablespoons mustard oil",
+                "Salt to taste"
+            ],
+            "instructions": [
+                "Make slits on the pomfret fish.",
+                "Mix yogurt, ginger-garlic paste, red chili powder, turmeric, garam masala, lemon juice, mustard oil, and salt to make a marinade.",
+                "Coat the fish with the marinade and let it sit for 1 hour.",
+                "Preheat oven to 200°C (400°F).",
+                "Place fish on a baking tray and bake for 20-25 minutes, turning once, until cooked and slightly charred.",
+                "Serve hot with lemon wedges."
+            ],
+            "country_of_origin": "India",
+            "prep_time": "15 minutes",
+            "cook_time": "25 minutes",
+            "yield": "2 servings",
+            "public_url": "https://drive.google.com/file/d/1H2EwqEYIBU2I1nGXw8o1UqLhywnpKnHT/view?usp=sharing"
+        },
+        {
+            "id": 56,
+            "dish_name": "Lemon Pepper Chicken",
+            "dish_type": "Main",
+            "taste_category": "Savory",
+            "ingredients": [
+                "4 chicken breasts",
+                "2 tablespoons lemon juice",
+                "1 teaspoon lemon zest",
+                "1 tablespoon black pepper, crushed",
+                "2 cloves garlic, minced",
+                "2 tablespoons olive oil",
+                "Salt to taste",
+                "Fresh parsley for garnish"
+            ],
+            "instructions": [
+                "Marinate chicken with lemon juice, lemon zest, black pepper, garlic, olive oil, and salt for 30 minutes.",
+                "Heat a skillet over medium heat and add the marinated chicken.",
+                "Cook for 6-8 minutes on each side until fully cooked and golden.",
+                "Garnish with parsley and serve hot."
+            ],
+            "country_of_origin": "Unknown",
+            "prep_time": "10 minutes",
+            "cook_time": "20 minutes",
+            "yield": "4 servings",
+            "public_url": "https://drive.google.com/file/d/1flz6d-5UtWsn5cJCzTGXAKP3qlYyvRSb/view?usp=sharing"
+        },
+        {
+            "id": 57,
+            "dish_name": "Morichkhola",
+            "dish_type": "Main",
+            "taste_category": "Spicy",
+            "ingredients": [
+                "500 grams chicken",
+                "1 onion, sliced",
+                "2 tablespoons ginger-garlic paste",
+                "4 green chilies, chopped",
+                "1 teaspoon turmeric powder",
+                "1 tablespoon red chili powder",
+                "1 teaspoon cumin powder",
+                "3 tablespoons oil",
+                "Salt to taste",
+                "Fresh cilantro for garnish"
+            ],
+            "instructions": [
+                "Heat oil in a pan and sauté onions until golden.",
+                "Add ginger-garlic paste and green chilies, cooking for 2 minutes.",
+                "Stir in turmeric, red chili powder, cumin powder, and salt.",
+                "Add chicken and cook until browned and tender, about 20 minutes.",
+                "Garnish with cilantro and serve with rice or roti."
+            ],
+            "country_of_origin": "Bangladesh",
+            "prep_time": "15 minutes",
+            "cook_time": "25 minutes",
+            "yield": "4 servings",
+            "public_url": "https://drive.google.com/file/d/15KPPOmXg_LOdtuRZHHn4Uo8tFYCOpiH-/view?usp=sharing"
+        },
+        {
+            "id": 58,
+            "dish_name": "Chicken Wrap",
+            "dish_type": "Main",
+            "taste_category": "Savory",
+            "ingredients": [
+                "2 chicken breasts, grilled and sliced",
+                "4 tortillas",
+                "1 cup lettuce, shredded",
+                "1 tomato, sliced",
+                "1/2 cup mayonnaise",
+                "1 tablespoon mustard",
+                "Salt to taste",
+                "Black pepper to taste"
+            ],
+            "instructions": [
+                "Grill chicken breasts with salt and pepper until cooked, then slice thinly.",
+                "Mix mayonnaise and mustard to make a spread.",
+                "Lay tortillas flat, spread the mayo-mustard mix, and layer with lettuce, tomato, and chicken.",
+                "Roll up the tortillas tightly and cut in half.",
+                "Serve immediately."
+            ],
+            "country_of_origin": "Unknown",
+            "prep_time": "15 minutes",
+            "cook_time": "10 minutes",
+            "yield": "4 wraps",
+            "public_url": "https://drive.google.com/file/d/1w65Gdfq5oydDwrEijYWWwNBeGcGDfGLe/view?usp=sharing"
+        },
+        {
+            "id": 59,
+            "dish_name": "Kadhi Chawal",
+            "dish_type": "Main",
+            "taste_category": "Savory",
+            "ingredients": [
+                "1 cup gram flour (besan)",
+                "2 cups yogurt",
+                "1 teaspoon turmeric powder",
+                "1 teaspoon red chili powder",
+                "1 tablespoon ginger paste",
+                "2 cups cooked rice",
+                "2 tablespoons oil",
+                "1 teaspoon cumin seeds",
+                "4-5 curry leaves",
+                "Salt to taste"
+            ],
+            "instructions": [
+                "Whisk gram flour, yogurt, turmeric, red chili powder, ginger paste, and salt with 3 cups water.",
+                "Heat oil in a pan, add cumin seeds and curry leaves, and let them splutter.",
+                "Pour in the yogurt mixture and simmer for 20 minutes, stirring occasionally, until thickened.",
+                "Serve hot over cooked rice."
+            ],
+            "country_of_origin": "India",
+            "prep_time": "10 minutes",
+            "cook_time": "25 minutes",
+            "yield": "4 servings",
+            "public_url": "https://drive.google.com/file/d/1SYJrQ6Nm6hUS4FOc9tZqAOuvsFq6IpgN/view?usp=sharing"
+        },
+        {
+            "id": 60,
+            "dish_name": "Cheesy Chicken Crepe",
+            "dish_type": "Main",
+            "taste_category": "Savory",
+            "ingredients": [
+                "1 cup all-purpose flour",
+                "2 eggs",
+                "1 cup milk",
+                "200 grams chicken, cooked and shredded",
+                "1 cup cheddar cheese, grated",
+                "1/2 cup cream",
+                "2 tablespoons butter",
+                "Salt to taste",
+                "Black pepper to taste"
+            ],
+            "instructions": [
+                "Whisk flour, eggs, milk, and a pinch of salt to make a smooth crepe batter.",
+                "Heat a non-stick pan, add a little butter, and pour batter to make thin crepes. Cook until lightly golden on both sides.",
+                "Mix shredded chicken with cream, salt, and pepper.",
+                "Place chicken mixture and cheese in the center of each crepe, fold, and serve warm."
+            ],
+            "country_of_origin": "Unknown",
+            "prep_time": "20 minutes",
+            "cook_time": "20 minutes",
+            "yield": "4 crepes",
+            "public_url": "https://drive.google.com/file/d/1TwTKKb05yeDVqtHIuu6CAgiAc2AXcSip/view?usp=sharing"
+        },
+        {
+            "id": 61,
+            "dish_name": "Fuljhuri Pitha",
+            "dish_type": "Dessert",
+            "taste_category": "Sweet",
+            "ingredients": [
+                "1 cup rice flour",
+                "1/2 cup sugar",
+                "1/4 teaspoon salt",
+                "1 cup water",
+                "Oil for deep frying"
+            ],
+            "instructions": [
+                "Boil water with sugar and salt until dissolved, then stir in rice flour to make a dough.",
+                "Knead until smooth and let it rest for 10 minutes.",
+                "Fill a piping bag with the dough and pipe intricate shapes into hot oil.",
+                "Fry until golden brown and crispy, then drain on paper towels.",
+                "Serve as a sweet snack."
+            ],
+            "country_of_origin": "Bangladesh",
+            "prep_time": "15 minutes",
+            "cook_time": "20 minutes",
+            "yield": "10-12 pieces",
+            "public_url": "https://drive.google.com/file/d/1pbAPTb_vKMTyeMe02NiHwuuXHoRGjryd/view?usp=sharing"
+        },
+        {
+            "id": 62,
+            "dish_name": "Air Fried Calamari",
+            "dish_type": "Appetizer",
+            "taste_category": "Savory",
+            "ingredients": [
+                "500 grams calamari rings",
+                "1 cup breadcrumbs",
+                "1 teaspoon garlic powder",
+                "1 teaspoon paprika",
+                "1 egg, beaten",
+                "Salt to taste",
+                "Cooking spray"
+            ],
+            "instructions": [
+                "Season calamari rings with salt, garlic powder, and paprika.",
+                "Dip each ring in beaten egg, then coat with breadcrumbs.",
+                "Preheat air fryer to 200°C (400°F).",
+                "Spray calamari with cooking spray and air fry for 8-10 minutes until crispy.",
+                "Serve with a dipping sauce."
+            ],
+            "country_of_origin": "Unknown",
+            "prep_time": "15 minutes",
+            "cook_time": "10 minutes",
+            "yield": "4 servings",
+            "public_url": "https://drive.google.com/file/d/1vN8nLBneHR5qdpkOx37ugaAWYeknqE0p/view?usp=sharing"
+        },
+        {
+            "id": 63,
+            "dish_name": "Bitter Gourd",
+            "dish_type": "Side",
+            "taste_category": "Savory",
+            "ingredients": [
+                "2 bitter gourds, sliced",
+                "1 onion, sliced",
+                "1 teaspoon turmeric powder",
+                "1 teaspoon red chili powder",
+                "1 tablespoon oil",
+                "Salt to taste"
+            ],
+            "instructions": [
+                "Wash bitter gourd slices and soak in salted water for 20 minutes to reduce bitterness, then drain.",
+                "Heat oil in a pan, add onions, and sauté until golden.",
+                "Add turmeric, red chili powder, and salt, then stir in bitter gourd.",
+                "Cook on medium heat until tender, about 15 minutes.",
+                "Serve as a side dish."
+            ],
+            "country_of_origin": "Bangladesh",
+            "prep_time": "20 minutes",
+            "cook_time": "15 minutes",
+            "yield": "4 servings",
+            "public_url": "https://drive.google.com/file/d/1Ac2oF1mDYti9IT5fWVMA9Gj9xaNgVHMg/view?usp=sharing"
+        },
+        {
+            "id": 64,
+            "dish_name": "Shredded Beef Khichuri",
+            "dish_type": "Main",
+            "taste_category": "Savory",
+            "ingredients": [
+                "1 cup rice",
+                "1/2 cup red lentils",
+                "300 grams beef, shredded",
+                "1 onion, sliced",
+                "1 tablespoon ginger-garlic paste",
+                "1 teaspoon turmeric powder",
+                "1 teaspoon cumin powder",
+                "3 tablespoons oil",
+                "Salt to taste",
+                "Fresh cilantro for garnish"
+            ],
+            "instructions": [
+                "Cook beef with salt and water until tender, then shred and set aside.",
+                "Heat oil in a pot, sauté onions until golden, then add ginger-garlic paste.",
+                "Stir in turmeric, cumin powder, rice, and lentils.",
+                "Add 4 cups of water and shredded beef, bring to a boil, then simmer for 25 minutes until cooked.",
+                "Garnish with cilantro and serve hot."
+            ],
+            "country_of_origin": "Bangladesh",
+            "prep_time": "20 minutes",
+            "cook_time": "40 minutes",
+            "yield": "4 servings",
+            "public_url": "https://drive.google.com/file/d/1tCd6ltWWwkiLWLFG_Kqp4qwVXAUaC6D8/view?usp=sharing"
+        },
+        {
+            "id": 65,
+            "dish_name": "Duck Meat",
+            "dish_type": "Main",
+            "taste_category": "Savory",
+            "ingredients": [
+                "1 kg duck, cut into pieces",
+                "1 onion, sliced",
+                "2 tablespoons ginger-garlic paste",
+                "1 teaspoon turmeric powder",
+                "1 teaspoon red chili powder",
+                "1 teaspoon garam masala",
+                "3 tablespoons oil",
+                "Salt to taste"
+            ],
+            "instructions": [
+                "Heat oil in a pan, sauté onions until golden.",
+                "Add ginger-garlic paste, turmeric, red chili powder, and salt, cooking for 2 minutes.",
+                "Add duck pieces and cook until browned.",
+                "Add 1 cup water, cover, and simmer for 45 minutes until tender.",
+                "Stir in garam masala and cook for 5 more minutes.",
+                "Serve hot with rice or roti."
+            ],
+            "country_of_origin": "Bangladesh",
+            "prep_time": "15 minutes",
+            "cook_time": "50 minutes",
+            "yield": "6 servings",
+            "public_url": "https://drive.google.com/file/d/1iwtcNzdOtjMdjdC7_konUOd75pgy0FsP/view?usp=sharing"
+        },
+        {
+            "id": 66,
+            "dish_name": "Turkish Chicken Kebab",
+            "dish_type": "Main",
+            "taste_category": "Savory",
+            "ingredients": [
+                "500 grams chicken breast, cubed",
+                "1 cup yogurt",
+                "1 tablespoon tomato paste",
+                "1 teaspoon paprika",
+                "1 teaspoon cumin powder",
+                "2 cloves garlic, minced",
+                "2 tablespoons olive oil",
+                "Salt to taste",
+                "Skewers"
+            ],
+            "instructions": [
+                "Mix yogurt, tomato paste, paprika, cumin, garlic, olive oil, and salt to make a marinade.",
+                "Marinate chicken cubes for at least 2 hours.",
+                "Thread chicken onto skewers.",
+                "Grill or bake at 200°C (400°F) for 20-25 minutes, turning occasionally, until cooked.",
+                "Serve with flatbread and salad."
+            ],
+            "country_of_origin": "Turkey",
+            "prep_time": "15 minutes",
+            "cook_time": "25 minutes",
+            "yield": "4 servings",
+            "public_url": "https://drive.google.com/file/d/1qfe3xtCS783okj1J6BQnwkyMCSH7r8yy/view?usp=sharing"
+        },
+        {
+            "id": 67,
+            "dish_name": "Crab Rangoon",
+            "dish_type": "Appetizer",
+            "taste_category": "Savory",
+            "ingredients": [
+                "200 grams crab meat",
+                "200 grams cream cheese",
+                "2 green onions, chopped",
+                "1 teaspoon garlic powder",
+                "1 teaspoon soy sauce",
+                "20 wonton wrappers",
+                "Oil for frying"
+            ],
+            "instructions": [
+                "Mix crab meat, cream cheese, green onions, garlic powder, and soy sauce.",
+                "Place a teaspoon of filling in the center of each wonton wrapper.",
+                "Fold wrappers into triangles or purses, sealing edges with water.",
+                "Heat oil and fry until golden brown, about 2-3 minutes per side.",
+                "Drain on paper towels and serve with dipping sauce."
+            ],
+            "country_of_origin": "United States",
+            "prep_time": "20 minutes",
+            "cook_time": "10 minutes",
+            "yield": "20 pieces",
+            "public_url": "https://drive.google.com/file/d/1yoiXsTZNKeTW50aPlGkky-GUdQvAPNXk/view?usp=sharing"
+        },
+        {
+            "id": 68,
+            "dish_name": "Lehsuni Palak",
+            "dish_type": "Side",
+            "taste_category": "Savory",
+            "ingredients": [
+                "500 grams spinach, chopped",
+                "6 cloves garlic, minced",
+                "1 onion, chopped",
+                "1 teaspoon cumin seeds",
+                "1 teaspoon red chili powder",
+                "2 tablespoons ghee",
+                "Salt to taste"
+            ],
+            "instructions": [
+                "Blanch spinach in boiling water for 2 minutes, then blend into a puree.",
+                "Heat ghee in a pan, add cumin seeds, and let them splutter.",
+                "Sauté onion and garlic until golden.",
+                "Add red chili powder and salt, then stir in spinach puree.",
+                "Cook for 5-7 minutes until flavors meld.",
+                "Serve hot with roti or rice."
+            ],
+            "country_of_origin": "India",
+            "prep_time": "15 minutes",
+            "cook_time": "15 minutes",
+            "yield": "4 servings",
+            "public_url": "https://drive.google.com/file/d/1cxStsKk78Yk6NaTPawLaMKrthm4xcbzz/view?usp=sharing"
+        },
+        {
+            "id": 69,
+            "dish_name": "Cashew Nut Salad",
+            "dish_type": "Side",
+            "taste_category": "Savory",
+            "ingredients": [
+                "1 cup cashew nuts, roasted",
+                "2 cups mixed greens",
+                "1 cucumber, sliced",
+                "1 tomato, chopped",
+                "1/4 cup olive oil",
+                "1 tablespoon lemon juice",
+                "Salt to taste",
+                "Black pepper to taste"
+            ],
+            "instructions": [
+                "Roast cashew nuts in a dry pan until golden, then cool.",
+                "In a bowl, combine mixed greens, cucumber, tomato, and cashews.",
+                "Whisk olive oil, lemon juice, salt, and pepper to make a dressing.",
+                "Toss salad with dressing and serve fresh."
+            ],
+            "country_of_origin": "Unknown",
+            "prep_time": "10 minutes",
+            "cook_time": "5 minutes",
+            "yield": "4 servings",
+            "public_url": "https://drive.google.com/file/d/150leNPb092LiTD50j1G1V_X4mZ3jlg_m/view?usp=sharing"
+        },
+        {
+            "id": 70,
+            "dish_name": "Butter Chicken",
+            "dish_type": "Main",
+            "taste_category": "Savory",
+            "ingredients": [
+                "500 grams chicken, boneless",
+                "1 cup yogurt",
+                "1 tablespoon ginger-garlic paste",
+                "1 teaspoon red chili powder",
+                "1 teaspoon garam masala",
+                "1 cup tomato puree",
+                "1/2 cup heavy cream",
+                "3 tablespoons butter",
+                "Salt to taste",
+                "Fresh cilantro for garnish"
+            ],
+            "instructions": [
+                "Marinate chicken with yogurt, ginger-garlic paste, red chili powder, garam masala, and salt for 1 hour.",
+                "Heat butter in a pan, add marinated chicken, and cook until browned.",
+                "Stir in tomato puree and simmer for 15 minutes.",
+                "Add heavy cream, cook for 5 more minutes, and adjust salt.",
+                "Garnish with cilantro and serve with naan or rice."
+            ],
+            "country_of_origin": "India",
+            "prep_time": "15 minutes",
+            "cook_time": "30 minutes",
+            "yield": "4 servings",
+            "public_url": "https://drive.google.com/file/d/1CTpR2goa67-YgRENT9s3k5cOSZAIurSD/view?usp=sharing"
+        },
+        {
+            "id": 71,
+            "dish_name": "Gurer Payesh",
+            "dish_type": "Dessert",
+            "taste_category": "Sweet",
+            "ingredients": [
+                "1/2 cup rice",
+                "1 liter milk",
+                "1 cup jaggery (gur), grated",
+                "2 cardamom pods",
+                "2 tablespoons raisins",
+                "2 tablespoons cashew nuts"
+            ],
+            "instructions": [
+                "Wash rice and soak for 30 minutes, then drain.",
+                "Boil milk with cardamom pods, then add rice and simmer until cooked, about 20 minutes.",
+                "Stir in jaggery until dissolved, then add raisins and cashews.",
+                "Cook for 5 more minutes and remove from heat.",
+                "Serve warm or chilled."
+            ],
+            "country_of_origin": "Bangladesh",
+            "prep_time": "10 minutes",
+            "cook_time": "30 minutes",
+            "yield": "4 servings",
+            "public_url": "https://drive.google.com/file/d/1SjEGBk4zwc7v5xCSvfvJTj0LI7YkDqyO/view?usp=sharing"
+        },
+        {
+            "id": 72,
+            "dish_name": "Tuna Steak",
+            "dish_type": "Main",
+            "taste_category": "Savory",
+            "ingredients": [
+                "2 tuna steaks",
+                "2 tablespoons olive oil",
+                "1 tablespoon soy sauce",
+                "1 teaspoon black pepper",
+                "1 teaspoon garlic powder",
+                "1 tablespoon lemon juice",
+                "Salt to taste"
+            ],
+            "instructions": [
+                "Marinate tuna steaks with olive oil, soy sauce, black pepper, garlic powder, lemon juice, and salt for 20 minutes.",
+                "Heat a skillet over high heat, sear tuna for 2-3 minutes on each side for medium-rare.",
+                "Rest for 5 minutes, then slice and serve."
+            ],
+            "country_of_origin": "Unknown",
+            "prep_time": "10 minutes",
+            "cook_time": "10 minutes",
+            "yield": "2 servings",
+            "public_url": "https://drive.google.com/file/d/1hgEdq759UVfvpJQwfVDgXvlR3u7iPHoe/view?usp=sharing"
+        },
+        {
+            "id": 73,
+            "dish_name": "Chicken Kofta",
+            "dish_type": "Main",
+            "taste_category": "Savory",
+            "ingredients": [
+                "500 grams ground chicken",
+                "1 onion, grated",
+                "2 tablespoons breadcrumbs",
+                "1 teaspoon ginger paste",
+                "1 teaspoon garlic paste",
+                "1 teaspoon garam masala",
+                "1 egg",
+                "Salt to taste",
+                "Oil for frying"
+            ],
+            "instructions": [
+                "Mix ground chicken with onion, breadcrumbs, ginger, garlic, garam masala, egg, and salt.",
+                "Shape into small balls.",
+                "Heat oil in a pan and fry koftas until golden brown, about 10 minutes.",
+                "Serve with sauce or curry."
+            ],
+            "country_of_origin": "Bangladesh",
+            "prep_time": "20 minutes",
+            "cook_time": "15 minutes",
+            "yield": "4 servings",
+            "public_url": "https://drive.google.com/file/d/1F7RbxkpQe4q7FXam2NHtBk4Ni1qfPajq/view?usp=sharing"
+        },
+        {
+            "id": 74,
+            "dish_name": "Dim Chingri Bhorta",
+            "dish_type": "Side",
+            "taste_category": "Spicy",
+            "ingredients": [
+                "4 boiled eggs",
+                "100 grams dried shrimp",
+                "1 onion, sliced",
+                "4 green chilies, chopped",
+                "2 tablespoons mustard oil",
+                "Salt to taste",
+                "Fresh cilantro for garnish"
+            ],
+            "instructions": [
+                "Roast dried shrimp in a dry pan, then grind coarsely.",
+                "Mash boiled eggs with a fork.",
+                "Heat mustard oil, sauté onions and chilies until golden.",
+                "Mix in shrimp powder, mashed eggs, and salt.",
+                "Cook for 2-3 minutes, garnish with cilantro, and serve with rice."
+            ],
+            "country_of_origin": "Bangladesh",
+            "prep_time": "15 minutes",
+            "cook_time": "10 minutes",
+            "yield": "4 servings",
+            "public_url": "https://drive.google.com/file/d/1LYT2FPDufVNHhEow7np8v_jWBPCGrc2k/view?usp=sharing"
+        },
+        {
+            "id": 75,
+            "dish_name": "Fish Masgouf",
+            "dish_type": "Main",
+            "taste_category": "Savory",
+            "ingredients": [
+                "1 whole carp fish, cleaned",
+                "2 tablespoons olive oil",
+                "1 teaspoon turmeric powder",
+                "1 teaspoon cumin powder",
+                "1 tablespoon lemon juice",
+                "Salt to taste",
+                "Fresh parsley for garnish"
+            ],
+            "instructions": [
+                "Butterfly the fish and season with turmeric, cumin, salt, and lemon juice.",
+                "Brush with olive oil and grill over an open flame or bake at 200°C (400°F) for 20-25 minutes.",
+                "Garnish with parsley and serve with bread or rice."
+            ],
+            "country_of_origin": "Iraq",
+            "prep_time": "15 minutes",
+            "cook_time": "25 minutes",
+            "yield": "2 servings",
+            "public_url": "https://drive.google.com/file/d/1vdb5NKYNDbG1qcUn2G9_GtFB73b_8kCS/view?usp=sharing"
+        },
+        {
+            "id": 76,
+            "dish_name": "Sujir Pakon Pitha",
+            "dish_type": "Dessert",
+            "taste_category": "Sweet",
+            "ingredients": [
+                "1 cup semolina (suji)",
+                "1/2 cup sugar",
+                "1/4 cup ghee",
+                "1 cup water",
+                "Oil for frying"
+            ],
+            "instructions": [
+                "Boil water with sugar, then stir in semolina and ghee to make a dough.",
+                "Knead until smooth, then roll out and cut into decorative shapes.",
+                "Heat oil and fry until golden brown.",
+                "Drain and serve as a sweet treat."
+            ],
+            "country_of_origin": "Bangladesh",
+            "prep_time": "20 minutes",
+            "cook_time": "15 minutes",
+            "yield": "10-12 pieces",
+            "public_url": "https://drive.google.com/file/d/1VIB1E2CbzaQeK2HT6AD66BCvSkj4zyDl/view?usp=sharing"
+        },
+        {
+            "id": 77,
+            "dish_name": "Tilapia Fish Curry",
+            "dish_type": "Main",
+            "taste_category": "Spicy",
+            "ingredients": [
+                "500 grams tilapia fillets",
+                "1 onion, sliced",
+                "1 tablespoon ginger-garlic paste",
+                "1 teaspoon turmeric powder",
+                "1 teaspoon red chili powder",
+                "1 cup coconut milk",
+                "2 tablespoons oil",
+                "Salt to taste",
+                "Fresh cilantro for garnish"
+            ],
+            "instructions": [
+                "Heat oil, sauté onions until golden, then add ginger-garlic paste.",
+                "Stir in turmeric, red chili powder, and salt.",
+                "Add tilapia fillets and cook for 5 minutes.",
+                "Pour in coconut milk and simmer for 10 minutes until fish is cooked.",
+                "Garnish with cilantro and serve with rice."
+            ],
+            "country_of_origin": "Bangladesh",
+            "prep_time": "15 minutes",
+            "cook_time": "20 minutes",
+            "yield": "4 servings",
+            "public_url": "https://drive.google.com/file/d/11jZh3vyG6MaPTP5swIZ9hshV7I1CU5nx/view?usp=sharing"
+        },
+        {
+            "id": 78,
+            "dish_name": "Deshi Style Thai Soup",
+            "dish_type": "Appetizer",
+            "taste_category": "Spicy",
+            "ingredients": [
+                "200 grams shrimp",
+                "1 liter chicken broth",
+                "1 tablespoon ginger, sliced",
+                "2 cloves garlic, minced",
+                "1 teaspoon chili flakes",
+                "1 tablespoon fish sauce",
+                "1 tablespoon lime juice",
+                "Fresh cilantro for garnish"
+            ],
+            "instructions": [
+                "Bring chicken broth to a boil, add ginger, garlic, and chili flakes.",
+                "Stir in shrimp and cook until pink, about 5 minutes.",
+                "Add fish sauce and lime juice, adjust seasoning.",
+                "Garnish with cilantro and serve hot."
+            ],
+            "country_of_origin": "Bangladesh",
+            "prep_time": "10 minutes",
+            "cook_time": "15 minutes",
+            "yield": "4 servings",
+            "public_url": "https://drive.google.com/file/d/1Uq_wjpqdGSbCdvqTpZDQY-lYKT3W7Z-_/view?usp=sharing"
+        },
+        {
+            "id": 79,
+            "dish_name": "Beef Steak with Mushroom Sauce",
+            "dish_type": "Main",
+            "taste_category": "Savory",
+            "ingredients": [
+                "2 beef steaks",
+                "1 cup mushrooms, sliced",
+                "1/2 cup heavy cream",
+                "2 cloves garlic, minced",
+                "2 tablespoons butter",
+                "1 tablespoon olive oil",
+                "Salt to taste",
+                "Black pepper to taste"
+            ],
+            "instructions": [
+                "Season steaks with salt and pepper, then sear in olive oil for 4-5 minutes per side. Set aside.",
+                "In the same pan, melt butter, sauté garlic and mushrooms until soft.",
+                "Add heavy cream and simmer until thickened, about 5 minutes.",
+                "Return steaks to the pan, coat with sauce, and serve hot."
+            ],
+            "country_of_origin": "Unknown",
+            "prep_time": "10 minutes",
+            "cook_time": "20 minutes",
+            "yield": "2 servings",
+            "public_url": "https://drive.google.com/file/d/1hbVavLhoBMAexJNd1v8i1n0_b8Nmnxyw/view?usp=sharing"
+        },
+        {
+            "id": 80,
+            "dish_name": "Kabuli Pulao",
+            "dish_type": "Main",
+            "taste_category": "Savory",
+            "ingredients": [
+                "2 cups basmati rice",
+                "500 grams lamb",
+                "1 onion, sliced",
+                "1/2 cup raisins",
+                "1/2 cup carrots, julienned",
+                "1 teaspoon cumin seeds",
+                "3 tablespoons ghee",
+                "Salt to taste"
+            ],
+            "instructions": [
+                "Cook lamb with salt and water until tender, then reserve broth.",
+                "Heat ghee, sauté onions until golden, then add cumin seeds.",
+                "Stir in rice, raisins, carrots, and lamb broth (4 cups).",
+                "Bring to a boil, then simmer for 20 minutes until rice is cooked.",
+                "Top with lamb pieces and serve."
+            ],
+            "country_of_origin": "Afghanistan",
+            "prep_time": "20 minutes",
+            "cook_time": "40 minutes",
+            "yield": "4 servings",
+            "public_url": "https://drive.google.com/file/d/1VSwG5xkAeJ1791bLXGK_INfH6VdwVltW/view?usp=sharing"
+        },
+        {
+            "id": 81,
+            "dish_name": "Basbousa",
+            "dish_type": "Dessert",
+            "taste_category": "Sweet",
+            "ingredients": [
+                "1 cup semolina",
+                "1/2 cup sugar",
+                "1/2 cup yogurt",
+                "1/4 cup oil",
+                "1 teaspoon baking powder",
+                "1/2 cup coconut flakes",
+                "1 cup sugar syrup (sugar and water boiled)"
+            ],
+            "instructions": [
+                "Mix semolina, sugar, yogurt, oil, baking powder, and coconut flakes into a batter.",
+                "Pour into a greased pan and bake at 180°C (360°F) for 25 minutes.",
+                "Pour sugar syrup over the hot cake and let it soak.",
+                "Cut into pieces and serve."
+            ],
+            "country_of_origin": "Middle East",
+            "prep_time": "15 minutes",
+            "cook_time": "25 minutes",
+            "yield": "8 servings",
+            "public_url": "https://drive.google.com/file/d/1k7oUHxGfOIxUuGDVaWtEJoWAMjBqGz-c/view?usp=sharing"
+        },
+        {
+            "id": 82,
+            "dish_name": "Goat Kacchi Biriyani",
+            "dish_type": "Main",
+            "taste_category": "Savory",
+            "ingredients": [
+                "1 kg goat meat",
+                "3 cups basmati rice",
+                "1 cup yogurt",
+                "2 onions, sliced",
+                "2 tablespoons ginger-garlic paste",
+                "1 teaspoon garam masala",
+                "1/2 cup ghee",
+                "Salt to taste",
+                "Fresh mint for garnish"
+            ],
+            "instructions": [
+                "Marinate goat meat with yogurt, ginger-garlic paste, garam masala, and salt for 2 hours.",
+                "Fry onions until golden, then layer half in a pot.",
+                "Add marinated meat, then partially cooked rice, remaining onions, and ghee.",
+                "Seal pot and cook on low heat for 1 hour.",
+                "Garnish with mint and serve."
+            ],
+            "country_of_origin": "Bangladesh",
+            "prep_time": "30 minutes",
+            "cook_time": "1 hour",
+            "yield": "6 servings",
+            "public_url": "https://drive.google.com/file/d/1BNxXsNg5pcLjqXgjziCVoDa3TaDRMRhj/view?usp=sharing"
+        },
+        {
+            "id": 83,
+            "dish_name": "Cabbage Roll",
+            "dish_type": "Main",
+            "taste_category": "Savory",
+            "ingredients": [
+                "1 cabbage head",
+                "300 grams ground beef",
+                "1 cup cooked rice",
+                "1 onion, chopped",
+                "1 egg",
+                "1 cup tomato sauce",
+                "Salt to taste",
+                "Black pepper to taste"
+            ],
+            "instructions": [
+                "Boil cabbage leaves until soft, then drain.",
+                "Mix ground beef, rice, onion, egg, salt, and pepper.",
+                "Place filling in each cabbage leaf and roll tightly.",
+                "Place rolls in a pot, cover with tomato sauce, and simmer for 45 minutes.",
+                "Serve hot."
+            ],
+            "country_of_origin": "Unknown",
+            "prep_time": "20 minutes",
+            "cook_time": "45 minutes",
+            "yield": "6 rolls",
+            "public_url": "https://drive.google.com/file/d/1uyI-ViEqMzCwYVbwjWlqtLdJyc1dock4/view?usp=sharing"
+        },
+        {
+            "id": 84,
+            "dish_name": "Quail Roast",
+            "dish_type": "Main",
+            "taste_category": "Savory",
+            "ingredients": [
+                "4 quails",
+                "1 tablespoon ginger-garlic paste",
+                "1 teaspoon red chili powder",
+                "1 teaspoon turmeric powder",
+                "2 tablespoons oil",
+                "Salt to taste",
+                "Fresh cilantro for garnish"
+            ],
+            "instructions": [
+                "Marinate quails with ginger-garlic paste, red chili powder, turmeric, and salt for 1 hour.",
+                "Heat oil in a pan and roast quails until golden and cooked, about 20 minutes.",
+                "Garnish with cilantro and serve."
+            ],
+            "country_of_origin": "Bangladesh",
+            "prep_time": "15 minutes",
+            "cook_time": "20 minutes",
+            "yield": "4 servings",
+            "public_url": "https://drive.google.com/file/d/1O9dC32oVqJP7mrMrwwbF5my1j7PBkatj/view?usp=sharing"
+        },
+        {
+            "id": 85,
+            "dish_name": "Mundi",
+            "dish_type": "Main",
+            "taste_category": "Spicy",
+            "ingredients": [
+                "200 grams rice noodles",
+                "1 tablespoon whole spices (cumin, cinnamon, cardamom)",
+                "1 onion, sliced",
+                "1 teaspoon ginger-garlic paste",
+                "1 teaspoon shrimp paste",
+                "1 teaspoon chili flakes",
+                "1 tablespoon tamarind paste",
+                "1 egg, boiled",
+                "50 grams dried shrimp",
+                "2 tablespoons oil",
+                "Salt to taste",
+                "Fresh cilantro and lemon slices for garnish"
+            ],
+            "instructions": [
+                "Boil rice noodles, strain, and rinse under cold water.",
+                "Roast whole spices and onion in a pan, then add water, ginger-garlic paste, shrimp paste, chili flakes, tamarind paste, and salt to make a broth.",
+                "Cook broth for 15 minutes.",
+                "Serve noodles in a bowl, topped with fried onion, boiled egg, dried shrimp powder, and hot broth.",
+                "Garnish with cilantro and lemon slices."
+            ],
+            "country_of_origin": "Bangladesh",
+            "prep_time": "20 minutes",
+            "cook_time": "25 minutes",
+            "yield": "4 servings",
+            "public_url": "https://drive.google.com/file/d/1iC8H9zY-CxLVADWLDGUyI7azuqtOWcmj/view?usp=sharing"
+        },
+        {
+            "id": 86,
+            "dish_name": "Prawn Ghee Roast",
+            "dish_type": "Main",
+            "taste_category": "Spicy",
+            "ingredients": [
+                "500 grams prawns, peeled",
+                "3 tablespoons ghee",
+                "1 tablespoon ginger-garlic paste",
+                "1 teaspoon turmeric powder",
+                "2 teaspoons red chili powder",
+                "1 teaspoon cumin powder",
+                "1 tablespoon tamarind paste",
+                "Salt to taste",
+                "Curry leaves for garnish"
+            ],
+            "instructions": [
+                "Marinate prawns with turmeric, salt, and ginger-garlic paste for 20 minutes.",
+                "Heat ghee, add curry leaves, and let them splutter.",
+                "Add prawns and cook until pink, about 5 minutes.",
+                "Stir in red chili powder, cumin powder, and tamarind paste.",
+                "Cook until masala coats prawns, about 5-7 minutes.",
+                "Garnish with curry leaves and serve."
+            ],
+            "country_of_origin": "India",
+            "prep_time": "25 minutes",
+            "cook_time": "15 minutes",
+            "yield": "4 servings",
+            "public_url": "https://drive.google.com/file/d/1NRSgNb5mpt80nTgPofDROc2pUnfOV8G1/view?usp=sharing"
+        },
+        {
+            "id": 87,
+            "dish_name": "Kebab Platter",
+            "dish_type": "Appetizer",
+            "taste_category": "Savory",
+            "ingredients": [
+                "300 grams chicken, minced",
+                "300 grams beef, minced",
+                "1 onion, grated",
+                "1 tablespoon ginger-garlic paste",
+                "1 teaspoon garam masala",
+                "1 teaspoon red chili powder",
+                "2 tablespoons oil",
+                "Salt to taste",
+                "Skewers"
+            ],
+            "instructions": [
+                "Mix chicken and beef with onion, ginger-garlic paste, garam masala, red chili powder, and salt.",
+                "Shape onto skewers.",
+                "Heat oil in a pan or grill, cook kebabs until browned, about 15 minutes.",
+                "Serve with dips and salad."
+            ],
+            "country_of_origin": "Unknown",
+            "prep_time": "20 minutes",
+            "cook_time": "15 minutes",
+            "yield": "6 servings",
+            "public_url": "https://drive.google.com/file/d/1bp_rEUvKkhkk_1n6-czctOKXn8_RikXV/view?usp=sharing"
+        },
+        {
+            "id": 88,
+            "dish_name": "Makhni Handi",
+            "dish_type": "Main",
+            "taste_category": "Spicy",
+            "ingredients": [
+                "500 grams chicken",
+                "1 onion, sliced",
+                "2 red chilies, roasted",
+                "4 cloves garlic, roasted",
+                "1 cup yogurt",
+                "1 teaspoon garam masala",
+                "3 tablespoons butter",
+                "Salt to taste"
+            ],
+            "instructions": [
+                "Heat butter, sauté onions until golden.",
+                "Roast red chilies and garlic, then blend with yogurt.",
+                "Add chicken to the pan, cook until browned.",
+                "Stir in yogurt mixture and garam masala, simmer for 20 minutes.",
+                "Serve hot with naan."
+            ],
+            "country_of_origin": "Pakistan",
+            "prep_time": "15 minutes",
+            "cook_time": "30 minutes",
+            "yield": "4 servings",
+            "public_url": "https://drive.google.com/file/d/1f0u7HrFeeyjBrk8LVU5hVU0HA7np_Jzz/view?usp=sharing"
+        },
+        {
+            "id": 89,
+            "dish_name": "Kichuri Kalabhuna",
+            "dish_type": "Main",
+            "taste_category": "Spicy",
+            "ingredients": [
+                "1 cup rice",
+                "1/2 cup red lentils",
+                "500 grams beef",
+                "1 onion, sliced",
+                "1 tablespoon ginger-garlic paste",
+                "1 teaspoon turmeric powder",
+                "1 teaspoon kala bhuna masala",
+                "3 tablespoons oil",
+                "Salt to taste"
+            ],
+            "instructions": [
+                "Cook beef with salt and water until tender, reserve broth.",
+                "Heat oil, sauté onions, then add ginger-garlic paste, turmeric, and kala bhuna masala.",
+                "Stir in rice, lentils, and beef broth (4 cups).",
+                "Add beef and simmer for 25 minutes until cooked.",
+                "Serve hot."
+            ],
+            "country_of_origin": "Bangladesh",
+            "prep_time": "20 minutes",
+            "cook_time": "40 minutes",
+            "yield": "4 servings",
+            "public_url": "https://drive.google.com/file/d/14-pOv_gK3BBEFJr2IJCmrGXSojCh8VQV/view?usp=sharing"
+        },
+        {
+            "id": 90,
+            "dish_name": "Fried Rice",
+            "dish_type": "Main",
+            "taste_category": "Savory",
+            "ingredients": [
+                "2 cups cooked rice",
+                "1 onion, chopped",
+                "1 carrot, diced",
+                "1/2 cup peas",
+                "2 tablespoons soy sauce",
+                "1 bay leaf",
+                "2 cardamom pods",
+                "2 tablespoons oil",
+                "Salt to taste"
+            ],
+            "instructions": [
+                "Heat oil in a pan, add bay leaf and cardamom, and let them splutter.",
+                "Sauté onion until golden, then add carrot and peas.",
+                "Stir in cooked rice and soy sauce, cook for 5 minutes.",
+                "Adjust salt and serve hot."
+            ],
+            "country_of_origin": "Unknown",
+            "prep_time": "10 minutes",
+            "cook_time": "15 minutes",
+            "yield": "4 servings",
+            "public_url": "https://drive.google.com/file/d/1QJtWwy_YEk5ZEH6HfQ3HAXW8qqWistZb/view?usp=sharing"
+        },
+        {
+            "id": 91,
+            "dish_name": "Mango Tiramisu",
+            "dish_type": "Dessert",
+            "taste_category": "Sweet",
+            "ingredients": [
+                "200 grams mascarpone cheese",
+                "1 cup heavy cream",
+                "1/2 cup sugar",
+                "1 cup mango puree",
+                "24 ladyfinger biscuits",
+                "1 teaspoon vanilla extract"
+            ],
+            "instructions": [
+                "Whip heavy cream with sugar and vanilla until stiff peaks form.",
+                "Fold in mascarpone cheese and mango puree.",
+                "Dip ladyfingers in mango puree and layer in a dish.",
+                "Spread half the mascarpone mixture over them.",
+                "Repeat layering and top with remaining mixture.",
+                "Refrigerate for 4 hours before serving."
+            ],
+            "country_of_origin": "Unknown",
+            "prep_time": "20 minutes",
+            "cook_time": "0 minutes",
+            "yield": "6 servings",
+            "public_url": "https://drive.google.com/file/d/1S6tv-nASycMsIeSExqD9XtvEuD_OBtRE/view?usp=sharing"
+        },
+        {
+            "id": 92,
+            "dish_name": "Murighonto",
+            "dish_type": "Main",
+            "taste_category": "Savory",
+            "ingredients": [
+                "1 fish head (rohu or carp)",
+                "1/2 cup moong dal",
+                "1 onion, sliced",
+                "1 tablespoon ginger-garlic paste",
+                "1 teaspoon turmeric powder",
+                "1 teaspoon red chili powder",
+                "1 teaspoon cumin powder",
+                "3 tablespoons oil",
+                "Salt to taste",
+                "Fresh cilantro for garnish"
+            ],
+            "instructions": [
+                "Roast moong dal, wash, and set aside.",
+                "Fry fish head with salt and turmeric until golden, then set aside.",
+                "Heat oil, sauté onions until brown, then add ginger-garlic paste.",
+                "Stir in spices, dal, and water, cook until dal is soft.",
+                "Add fish head and simmer for 10 minutes.",
+                "Garnish with cilantro and serve."
+            ],
+            "country_of_origin": "Bangladesh",
+            "prep_time": "20 minutes",
+            "cook_time": "30 minutes",
+            "yield": "4 servings",
+            "public_url": "https://drive.google.com/file/d/1eqmpv0Bj--6Ff9-D5k2bSsBBvq_BD_d2/view?usp=sharing"
+        },
+        {
+            "id": 93,
+            "dish_name": "Chicken Kala Bhuna",
+            "dish_type": "Main",
+            "taste_category": "Spicy",
+            "ingredients": [
+                "1 kg chicken",
+                "2 teaspoons cumin-coriander powder",
+                "2 teaspoons red chili powder",
+                "1/2 teaspoon turmeric powder",
+                "1.5 teaspoons kala bhuna masala",
+                "1 teaspoon black pepper",
+                "2 tablespoons yogurt",
+                "1 teaspoon ginger-garlic paste",
+                "1 onion, fried",
+                "2 tablespoons mustard oil",
+                "Salt to taste"
+            ],
+            "instructions": [
+                "Marinate chicken with all spices, yogurt, ginger-garlic paste, fried onion, and mustard oil for 1 hour.",
+                "Heat oil, add marinated chicken, and cook until browned.",
+                "Simmer until chicken is tender and gravy thickens, about 30 minutes.",
+                "Serve hot with rice or roti."
+            ],
+            "country_of_origin": "Bangladesh",
+            "prep_time": "15 minutes",
+            "cook_time": "40 minutes",
+            "yield": "6 servings",
+            "public_url": "https://drive.google.com/file/d/1ps4s7ueBS1wnqXy7DVL3V__SMmmHhuec/view?usp=sharing"
+        },
+        {
+            "id": 94,
+            "dish_name": "Shrimp Tempura",
+            "dish_type": "Appetizer",
+            "taste_category": "Savory",
+            "ingredients": [
+                "200 grams shrimp, peeled",
+                "1 cup flour",
+                "1 egg",
+                "1 cup cold water",
+                "1 teaspoon baking powder",
+                "Oil for frying",
+                "Salt to taste"
+            ],
+            "instructions": [
+                "Mix flour, egg, cold water, baking powder, and salt to make a batter.",
+                "Dip shrimp in batter.",
+                "Heat oil and fry shrimp until golden and crispy, about 3-4 minutes.",
+                "Drain and serve with dipping sauce."
+            ],
+            "country_of_origin": "Japan",
+            "prep_time": "15 minutes",
+            "cook_time": "10 minutes",
+            "yield": "4 servings",
+            "public_url": "https://drive.google.com/file/d/11XtwlIcRLmd-uGNRV1HgFFbR7S9_bbtt/view?usp=sharing"
+        },
+        {
+            "id": 95,
+            "dish_name": "Tandoori Chicken",
+            "dish_type": "Main",
+            "taste_category": "Spicy",
+            "ingredients": [
+                "4 chicken legs",
+                "1 cup yogurt",
+                "1 tablespoon ginger-garlic paste",
+                "1 teaspoon red chili powder",
+                "1 teaspoon garam masala",
+                "1 tablespoon lemon juice",
+                "2 tablespoons oil",
+                "Salt to taste"
+            ],
+            "instructions": [
+                "Marinate chicken with yogurt, ginger-garlic paste, spices, lemon juice, and salt for 2 hours.",
+                "Preheat oven to 200°C (400°F).",
+                "Place chicken on a tray and bake for 30-35 minutes, turning once.",
+                "Serve hot with naan."
+            ],
+            "country_of_origin": "India",
+            "prep_time": "15 minutes",
+            "cook_time": "35 minutes",
+            "yield": "4 servings",
+            "public_url": "https://drive.google.com/file/d/1Qy5rDg0cDD561bbXS8a_0lNtir6VEELJ/view?usp=sharing"
+        },
+        {
+            "id": 96,
+            "dish_name": "French Onion Soup",
+            "dish_type": "Appetizer",
+            "taste_category": "Savory",
+            "ingredients": [
+                "1 lb beef brisket",
+                "2 large onions, sliced",
+                "2 tablespoons butter",
+                "1 tablespoon olive oil",
+                "1 teaspoon garlic powder",
+                "1 teaspoon onion powder",
+                "1 teaspoon chili flakes",
+                "1 tablespoon soy sauce",
+                "1 tablespoon cornstarch",
+                "4 cups beef broth",
+                "Croutons and mozzarella cheese for topping"
+            ],
+            "instructions": [
+                "Heat butter and olive oil, sauté beef brisket until browned, then add onions.",
+                "Cook until onions are soft, then add spices, soy sauce, and cornstarch.",
+                "Pour in beef broth, cover, and simmer for 30 minutes.",
+                "Shred beef and return to soup.",
+                "Top with croutons and mozzarella, air fry at 400°F until cheese melts.",
+                "Serve hot."
+            ],
+            "country_of_origin": "France",
+            "prep_time": "15 minutes",
+            "cook_time": "40 minutes",
+            "yield": "4 servings",
+            "public_url": "https://drive.google.com/file/d/1OP0Oc-yFYwAnVp85LjGGaQJvbuR3Fv01/view?usp=sharing"
+        },
+        {
+            "id": 97,
+            "dish_name": "Chicken Malai Tikka",
+            "dish_type": "Appetizer",
+            "taste_category": "Savory",
+            "ingredients": [
+                "500 grams chicken, cubed",
+                "1/2 cup cream",
+                "1 tablespoon ginger-garlic paste",
+                "1 teaspoon garam masala",
+                "1 teaspoon white pepper",
+                "2 tablespoons oil",
+                "Salt to taste",
+                "Skewers"
+            ],
+            "instructions": [
+                "Marinate chicken with cream, ginger-garlic paste, garam masala, white pepper, and salt for 2 hours.",
+                "Thread onto skewers.",
+                "Grill or bake at 200°C (400°F) for 20 minutes, turning occasionally.",
+                "Serve with chutney."
+            ],
+            "country_of_origin": "India",
+            "prep_time": "15 minutes",
+            "cook_time": "20 minutes",
+            "yield": "4 servings",
+            "public_url": "https://drive.google.com/file/d/1BJpDdwn6Qz5Gtrhqt21YOmDwrsax3R4X/view?usp=sharing"
+        },
+        {
+            "id": 98,
+            "dish_name": "Beef Tehari",
+            "dish_type": "Main",
+            "taste_category": "Savory",
+            "ingredients": [
+                "500 grams beef",
+                "2 cups basmati rice",
+                "1 onion, sliced",
+                "1 tablespoon ginger-garlic paste",
+                "1 teaspoon turmeric powder",
+                "1 teaspoon garam masala",
+                "3 tablespoons ghee",
+                "Salt to taste"
+            ],
+            "instructions": [
+                "Cook beef with salt and water until tender, reserve broth.",
+                "Heat ghee, sauté onions until golden, then add ginger-garlic paste.",
+                "Stir in spices, rice, and beef broth (4 cups).",
+                "Add beef and simmer for 20 minutes until rice is cooked.",
+                "Serve hot."
+            ],
+            "country_of_origin": "Bangladesh",
+            "prep_time": "20 minutes",
+            "cook_time": "40 minutes",
+            "yield": "4 servings",
+            "public_url": "https://drive.google.com/file/d/1Z2ckw7HGyR33Tdtq5meCnZ8H3Tjb-yQS/view?usp=sharing"
+        },
+        {
+            "id": 99,
+            "dish_name": "Kachagolla",
+            "dish_type": "Dessert",
+            "taste_category": "Sweet",
+            "ingredients": [
+                "1 liter milk",
+                "2 tablespoons lemon juice",
+                "1/2 cup sugar",
+                "1/4 teaspoon cardamom powder"
+            ],
+            "instructions": [
+                "Boil milk, add lemon juice to curdle, then strain to make chhana.",
+                "Knead chhana with sugar and cardamom until smooth.",
+                "Shape into small balls and serve fresh."
+            ],
+            "country_of_origin": "Bangladesh",
+            "prep_time": "20 minutes",
+            "cook_time": "15 minutes",
+            "yield": "10-12 pieces",
+            "public_url": "https://drive.google.com/file/d/1FvbwZoRkY7_EZqBufEAuGSrTyhMDnCuo/view?usp=sharing"
+        },
+        {
+            "id": 100,
+            "dish_name": "Beef Dum Biriyani",
+            "dish_type": "Main",
+            "taste_category": "Savory",
+            "ingredients": [
+                "1 kg beef",
+                "3 cups basmati rice",
+                "1 cup yogurt",
+                "2 onions, sliced",
+                "2 tablespoons ginger-garlic paste",
+                "1 teaspoon garam masala",
+                "1/2 cup ghee",
+                "Salt to taste",
+                "Fresh mint for garnish"
+            ],
+            "instructions": [
+                "Marinate beef with yogurt, ginger-garlic paste, garam masala, and salt for 2 hours.",
+                "Fry onions until golden, layer half in a pot.",
+                "Add marinated beef, then partially cooked rice, remaining onions, and ghee.",
+                "Seal pot and cook on low heat for 1 hour.",
+                "Garnish with mint and serve."
+            ],
+            "country_of_origin": "India",
+            "prep_time": "30 minutes",
+            "cook_time": "1 hour",
+            "yield": "6 servings",
+            "public_url": "https://drive.google.com/file/d/1EgYjZcfi7S_-QyZfHlAPHGO3MsPei1B3/view?usp=sharing"
+        },
+        {
+            "id": 101,
+            "dish_name": "Mango Sticky Rice",
+            "dish_type": "Dessert",
+            "taste_category": "Sweet",
+            "ingredients": [
+                "1 cup sticky rice",
+                "1 cup coconut milk",
+                "1 tablespoon condensed milk",
+                "1 mango, sliced",
+                "1 teaspoon vanilla essence",
+                "Sugar to taste"
+            ],
+            "instructions": [
+                "Cook sticky rice according to package instructions.",
+                "In a pan, heat coconut milk, condensed milk, and vanilla essence until thickened.",
+                "Mix rice with half the sauce, cook until absorbed.",
+                "Serve rice with mango slices and remaining sauce."
+            ],
+            "country_of_origin": "Thailand",
+            "prep_time": "15 minutes",
+            "cook_time": "20 minutes",
+            "yield": "4 servings",
+            "public_url": "https://drive.google.com/file/d/1DyQdtqZCSOCAguW8rXVREsPgvGNYP0FA/view?usp=sharing"
+        },
+        {
+            "id": 102,
+            "dish_name": "English Breakfast",
+            "dish_type": "Main",
+            "taste_category": "Savory",
+            "ingredients": [
+                "2 eggs",
+                "2 sausages",
+                "2 bacon strips",
+                "1 tomato, halved",
+                "1 cup mushrooms, sliced",
+                "2 slices bread",
+                "2 tablespoons butter",
+                "Salt to taste",
+                "Black pepper to taste"
+            ],
+            "instructions": [
+                "Fry eggs, sausages, and bacon in butter until cooked.",
+                "Grill tomato halves and sauté mushrooms.",
+                "Toast bread and butter it.",
+                "Serve all components together on a plate."
+            ],
+            "country_of_origin": "United Kingdom",
+            "prep_time": "10 minutes",
+            "cook_time": "20 minutes",
+            "yield": "2 servings",
+            "public_url": "https://drive.google.com/file/d/1wSvcO3LsznyCCqnw_Ocup0Ko54nYfLDP/view?usp=sharing"
+        },
+        {
+            "id": 103,
+            "dish_name": "Chocolate Mud Cake",
+            "dish_type": "Dessert",
+            "taste_category": "Sweet",
+            "ingredients": [
+                "1 cup milk",
+                "1 tablespoon lemon juice",
+                "1 teaspoon instant coffee",
+                "250 grams dark chocolate",
+                "1/2 cup oil",
+                "2 cups flour",
+                "1/2 cup cocoa powder",
+                "2 teaspoons baking soda",
+                "1 teaspoon baking powder",
+                "1.5 cups sugar",
+                "2 eggs",
+                "Chocolate ganache for topping"
+            ],
+            "instructions": [
+                "Make buttermilk by mixing milk and lemon juice.",
+                "Dissolve coffee in hot water, then melt with chocolate and oil.",
+                "Sift dry ingredients, mix with sugar.",
+                "Combine wet and dry ingredients with eggs, pour into a greased pan.",
+                "Bake at 160°C (325°F) for 40 minutes.",
+                "Top with ganache and serve."
+            ],
+            "country_of_origin": "Unknown",
+            "prep_time": "20 minutes",
+            "cook_time": "40 minutes",
+            "yield": "8 servings",
+            "public_url": "https://drive.google.com/file/d/10Leoy4ogQT_9Bv-jvb2YVkxHsrDSHVlU/view?usp=sharing"
+        },
+        {
+            "id": 104,
+            "dish_name": "Murighonto",
+            "dish_type": "Main",
+            "taste_category": "Savory",
+            "ingredients": [
+                "1 fish head (rohu)",
+                "1/2 cup moong dal",
+                "1 onion, sliced",
+                "1 tablespoon ginger-garlic paste",
+                "1 teaspoon turmeric powder",
+                "1 teaspoon red chili powder",
+                "1 teaspoon cumin powder",
+                "3 tablespoons oil",
+                "Salt to taste",
+                "Fresh cilantro for garnish"
+            ],
+            "instructions": [
+                "Roast moong dal, wash, and set aside.",
+                "Fry fish head with salt and turmeric until golden, then set aside.",
+                "Heat oil, sauté onions until brown, then add ginger-garlic paste.",
+                "Stir in spices, dal, and water, cook until dal is soft.",
+                "Add fish head and simmer for 10 minutes.",
+                "Garnish with cilantro and serve."
+            ],
+            "country_of_origin": "Bangladesh",
+            "prep_time": "20 minutes",
+            "cook_time": "30 minutes",
+            "yield": "4 servings",
+            "public_url": "https://drive.google.com/file/d/11raqgeYGjWa7uKGdKw9zjNoPLf0jmE9l/view?usp=sharing"
+        },
+        {
+            "id": 105,
+            "dish_name": "Kalakand",
+            "dish_type": "Dessert",
+            "taste_category": "Sweet",
+            "ingredients": [
+                "600 ml milk (for chhana)",
+                "450 ml milk",
+                "150 ml condensed milk",
+                "1 teaspoon ghee",
+                "1/4 teaspoon cardamom powder"
+            ],
+            "instructions": [
+                "Make chhana by curdling 600 ml milk with lemon juice, strain, and mash.",
+                "Boil 450 ml milk with cardamom, add chhana.",
+                "When thickened, add condensed milk and ghee, cook until set.",
+                "Pour into a greased pan, cool for 1 hour, and cut into pieces."
+            ],
+            "country_of_origin": "India",
+            "prep_time": "20 minutes",
+            "cook_time": "30 minutes",
+            "yield": "8 pieces",
+            "public_url": "https://drive.google.com/file/d/1lvjxOHM5qcYaD90Se4y0fh9MF7Z8mGZg/view?usp=sharing"
+        },
+        {
+            "id": 106,
+            "dish_name": "Thai Style Steamed Snapper",
+            "dish_type": "Main",
+            "taste_category": "Savory",
+            "ingredients": [
+                "1 whole snapper",
+                "2 tablespoons lemon juice",
+                "1 tablespoon ginger-garlic paste",
+                "1 tablespoon soy sauce",
+                "1 teaspoon black pepper",
+                "1 tablespoon olive oil",
+                "1 onion, diced",
+                "1 capsicum, diced",
+                "Fresh mint and chilies for garnish"
+            ],
+            "instructions": [
+                "Marinate snapper with lemon juice, ginger-garlic paste, soy sauce, black pepper, and olive oil.",
+                "Add diced onion, capsicum, mint, and chilies.",
+                "Wrap in foil and bake at 200°C (400°F) for 30-40 minutes.",
+                "Serve hot."
+            ],
+            "country_of_origin": "Thailand",
+            "prep_time": "15 minutes",
+            "cook_time": "40 minutes",
+            "yield": "2 servings",
+            "public_url": "https://drive.google.com/file/d/1kwKVWCXhM_wmBcfPPRiXqFItinnbEDha/view?usp=sharing"
+        },
+        {
+            "id": 107,
+            "dish_name": "Red Sauce Spaghetti",
+            "dish_type": "Main",
+            "taste_category": "Savory",
+            "ingredients": [
+                "200 grams spaghetti",
+                "1 egg, scrambled",
+                "100 grams sausage, sliced",
+                "100 grams shrimp",
+                "100 grams ground chicken",
+                "1 onion, minced",
+                "2 cloves garlic, minced",
+                "1 cup diced tomatoes",
+                "1 tablespoon chili-garlic sauce",
+                "2 tablespoons olive oil",
+                "Salt to taste"
+            ],
+            "instructions": [
+                "Cook spaghetti according to package instructions.",
+                "Sauté egg, sausage, shrimp, and chicken with salt and paprika, set aside.",
+                "Heat olive oil, caramelize onion and garlic, add tomatoes and chili-garlic sauce.",
+                "Simmer for 10 minutes, then toss in spaghetti and proteins.",
+                "Serve hot."
+            ],
+            "country_of_origin": "Italy",
+            "prep_time": "15 minutes",
+            "cook_time": "20 minutes",
+            "yield": "4 servings",
+            "public_url": "https://drive.google.com/file/d/1X56K2FQmMqktx9n65d-GMg3ybFkaui9V/view?usp=sharing"
+        },
+        {
+            "id": 108,
+            "dish_name": "Yellow Rice",
+            "dish_type": "Side",
+            "taste_category": "Savory",
+            "ingredients": [
+                "2 cups rice",
+                "1 teaspoon turmeric powder",
+                "1 onion, sliced",
+                "1 teaspoon cumin seeds",
+                "2 tablespoons ghee",
+                "Salt to taste"
+            ],
+            "instructions": [
+                "Heat ghee, sauté cumin seeds and onion until golden.",
+                "Stir in turmeric, rice, and salt.",
+                "Add 4 cups water, bring to a boil, then simmer for 20 minutes.",
+                "Serve hot."
+            ],
+            "country_of_origin": "Unknown",
+            "prep_time": "10 minutes",
+            "cook_time": "20 minutes",
+            "yield": "4 servings",
+            "public_url": "https://drive.google.com/file/d/1ThQaaC0ARy-tG1GF6TNl9WHKzXkdI9ke/view?usp=sharing"
+        },
+        {
+            "id": 109,
+            "dish_name": "Spinach Rice",
+            "dish_type": "Main",
+            "taste_category": "Savory",
+            "ingredients": [
+                "2 cups rice",
+                "200 grams spinach, blended",
+                "1 onion, chopped",
+                "1 tablespoon ginger-garlic paste",
+                "1 teaspoon cumin powder",
+                "1 teaspoon coriander powder",
+                "100 grams ground chicken",
+                "1 egg",
+                "2 tablespoons oil",
+                "Salt to taste"
+            ],
+            "instructions": [
+                "Heat oil, sauté onion with panch phoron until golden.",
+                "Add ginger-garlic paste, chicken, cumin, coriander, and salt.",
+                "Stir in spinach puree and cook until water reduces.",
+                "Add rice and 4 cups water, cook until done.",
+                "Top with a fried egg and serve."
+            ],
+            "country_of_origin": "Bangladesh",
+            "prep_time": "15 minutes",
+            "cook_time": "25 minutes",
+            "yield": "4 servings",
+            "public_url": "https://drive.google.com/file/d/1g2ahjWtipPB0MoNWe2qdf3IrHl5oD8Bt/view?usp=sharing"
+        },
+        {
+            "id": 110,
+            "dish_name": "Garlic Pickle",
+            "dish_type": "Condiment",
+            "taste_category": "Spicy",
+            "ingredients": [
+                "200 grams garlic cloves",
+                "2 tablespoons mustard oil",
+                "1 teaspoon panch phoron",
+                "2 dried red chilies",
+                "1 teaspoon cumin-coriander powder",
+                "1 teaspoon garam masala",
+                "1 tablespoon tamarind paste",
+                "1 tablespoon jaggery",
+                "Salt to taste"
+            ],
+            "instructions": [
+                "Heat mustard oil, sauté panch phoron and dried chilies.",
+                "Add garlic cloves and spices, cook until soft.",
+                "Stir in tamarind paste and jaggery, simmer for 10 minutes.",
+                "Cool and store in a jar."
+            ],
+            "country_of_origin": "Bangladesh",
+            "prep_time": "15 minutes",
+            "cook_time": "20 minutes",
+            "yield": "1 jar",
+            "public_url": "https://drive.google.com/file/d/1IVJl863FxSO0TfVWzPW5rQQiIvQcNmAX/view?usp=sharing"
+        },
+        {
+            "id": 111,
+            "dish_name": "Fish Chilli",
+            "dish_type": "Main",
+            "taste_category": "Spicy",
+            "ingredients": [
+                "500 grams fish fillets",
+                "1 onion, sliced",
+                "2 green chilies, chopped",
+                "1 tablespoon soy sauce",
+                "1 teaspoon chili flakes",
+                "2 tablespoons oil",
+                "Salt to taste"
+            ],
+            "instructions": [
+                "Heat oil, sauté onions and chilies until soft.",
+                "Add fish fillets, soy sauce, chili flakes, and salt.",
+                "Cook until fish is done, about 10 minutes.",
+                "Serve hot."
+            ],
+            "country_of_origin": "Unknown",
+            "prep_time": "10 minutes",
+            "cook_time": "15 minutes",
+            "yield": "4 servings",
+            "public_url": "https://drive.google.com/file/d/1IvTlpS6OQ7i5PVRZRgDl_xUeQKsoANVU/view?usp=sharing"
+        },
+        {
+            "id": 112,
+            "dish_name": "Jeera Rice, Creamy Fish, Brussel Sprouts",
+            "dish_type": "Main",
+            "taste_category": "Savory",
+            "ingredients": [
+                "2 cups basmati rice",
+                "1 teaspoon cumin seeds",
+                "2 tablespoons ghee",
+                "500 grams fish fillets",
+                "1/2 cup cream",
+                "1 teaspoon ginger-garlic paste",
+                "200 grams brussel sprouts",
+                "Salt to taste"
+            ],
+            "instructions": [
+                "Heat ghee, sauté cumin seeds, add rice and 4 cups water, cook until done.",
+                "Marinate fish with ginger-garlic paste and salt, cook in a pan with cream until tender.",
+                "Steam brussel sprouts until tender.",
+                "Serve rice with creamy fish and brussel sprouts."
+            ],
+            "country_of_origin": "India",
+            "prep_time": "15 minutes",
+            "cook_time": "30 minutes",
+            "yield": "4 servings",
+            "public_url": "https://drive.google.com/file/d/15V7kqr2ZPc7K9xd6ocGXVx4IN1TMZ2aw/view?usp=sharing"
+        },
+        {
+            "id": 113,
+            "dish_name": "Bread Toast",
+            "dish_type": "Appetizer",
+            "taste_category": "Savory",
+            "ingredients": [
+                "4 slices bread",
+                "2 tablespoons butter",
+                "1 teaspoon garlic powder",
+                "1 teaspoon chili flakes",
+                "Salt to taste"
+            ],
+            "instructions": [
+                "Spread butter on bread slices.",
+                "Sprinkle with garlic powder, chili flakes, and salt.",
+                "Toast in a pan or oven until crispy.",
+                "Serve warm."
+            ],
+            "country_of_origin": "Unknown",
+            "prep_time": "5 minutes",
+            "cook_time": "10 minutes",
+            "yield": "4 pieces",
+            "public_url": "https://drive.google.com/file/d/16MkwECqW4Lqu8Unvx8dFNmuyNJHEuNIJ/view?usp=sharing"
+        },
+        {
+            "id": 114,
+            "dish_name": "Achari Begun",
+            "dish_type": "Side",
+            "taste_category": "Spicy",
+            "ingredients": [
+                "2 eggplants, sliced",
+                "1 tablespoon coconut paste",
+                "1 teaspoon mustard seeds",
+                "1 teaspoon cumin seeds",
+                "1 teaspoon turmeric powder",
+                "1 teaspoon red chili powder",
+                "2 tablespoons mustard oil",
+                "1 onion, sliced",
+                "1 tablespoon tamarind water",
+                "1 teaspoon sugar",
+                "Salt to taste",
+                "Fresh cilantro for garnish"
+            ],
+            "instructions": [
+                "Coat eggplants with coconut paste, mustard seeds, cumin, turmeric, chili powder, and salt, then fry until golden.",
+                "Heat mustard oil, sauté onions with panch phoron until soft.",
+                "Add spices, tamarind water, sugar, and fried eggplants.",
+                "Cook until flavors meld, about 10 minutes.",
+                "Garnish with cilantro and serve."
+            ],
+            "country_of_origin": "Bangladesh",
+            "prep_time": "20 minutes",
+            "cook_time": "20 minutes",
+            "yield": "4 servings",
+            "public_url": "https://drive.google.com/file/d/1vM4ECSOhtAnpV5bjBb428WyEdsVh4mX6/view?usp=sharing"
+        },
+        {
+            "id": 115,
+            "dish_name": "Deshio Style Breakfast",
+            "dish_type": "Main",
+            "taste_category": "Savory",
+            "ingredients": [
+                "2 parathas",
+                "1 cup lentil curry",
+                "1 egg, fried",
+                "1 onion, sliced",
+                "2 green chilies",
+                "2 tablespoons oil",
+                "Salt to taste"
+            ],
+            "instructions": [
+                "Prepare parathas and lentil curry separately.",
+                "Fry egg with salt and set aside.",
+                "Sauté onions and chilies in oil.",
+                "Serve parathas with lentil curry, fried egg, and sautéed onions."
+            ],
+            "country_of_origin": "Bangladesh",
+            "prep_time": "15 minutes",
+            "cook_time": "20 minutes",
+            "yield": "2 servings",
+            "public_url": "https://drive.google.com/file/d/1QRfRaBwLK1nZDrl60QPeT1N99Pnidi7P/view?usp=sharing"
+        },
+        {
+            "id": 116,
+            "dish_name": "Hot and Sour Soup",
+            "dish_type": "Appetizer",
+            "taste_category": "Spicy",
+            "ingredients": [
+                "4 cups water",
+                "1 tablespoon soy sauce",
+                "1 tablespoon chili sauce",
+                "1 teaspoon chili flakes",
+                "1 teaspoon black pepper",
+                "1 teaspoon chicken bouillon",
+                "100 grams chicken, cubed",
+                "1 carrot, sliced",
+                "1 tablespoon cornstarch slurry",
+                "1 egg, beaten"
+            ],
+            "instructions": [
+                "Boil water with soy sauce, chili sauce, chili flakes, black pepper, and bouillon.",
+                "Add chicken and carrot, cook until tender.",
+                "Stir in cornstarch slurry to thicken.",
+                "Pour in beaten egg, stirring to create threads.",
+                "Serve hot."
+            ],
+            "country_of_origin": "China",
+            "prep_time": "10 minutes",
+            "cook_time": "20 minutes",
+            "yield": "4 servings",
+            "public_url": "https://drive.google.com/file/d/1INTy-4BXyPw5Ogkpv0WMJTi_ZuR0NvWR/view?usp=sharing"
+        },
+        {
+            "id": 117,
+            "dish_name": "Stuffed Mushroom",
+            "dish_type": "Appetizer",
+            "taste_category": "Savory",
+            "ingredients": [
+                "10 large mushrooms",
+                "100 grams cream cheese",
+                "1 tablespoon garlic, minced",
+                "1/4 cup breadcrumbs",
+                "2 tablespoons olive oil",
+                "Salt to taste",
+                "Fresh parsley for garnish"
+            ],
+            "instructions": [
+                "Remove mushroom stems and chop finely.",
+                "Sauté garlic and stems in olive oil.",
+                "Mix with cream cheese and salt, stuff into mushroom caps.",
+                "Top with breadcrumbs and bake at 180°C (350°F) for 20 minutes.",
+                "Garnish with parsley and serve."
+            ],
+            "country_of_origin": "Unknown",
+            "prep_time": "15 minutes",
+            "cook_time": "20 minutes",
+            "yield": "10 pieces",
+            "public_url": "https://drive.google.com/file/d/1wI-Cg7UiW8WzPh5-ntf7CG-hFhg55Gxi/view?usp=sharing"
+        },
+        {
+            "id": 118,
+            "dish_name": "Basbousa",
+            "dish_type": "Dessert",
+            "taste_category": "Sweet",
+            "ingredients": [
+                "1 cup semolina",
+                "1/2 cup yogurt",
+                "1/2 cup sugar",
+                "1/4 cup oil",
+                "1 teaspoon baking powder",
+                "1/4 cup coconut flakes",
+                "1 cup sugar syrup"
+            ],
+            "instructions": [
+                "Mix semolina, yogurt, sugar, oil, baking powder, and coconut flakes into a batter.",
+                "Pour into a greased pan, bake at 180°C (360°F) for 25 minutes.",
+                "Pour sugar syrup over hot cake and let it soak.",
+                "Cut into pieces and serve."
+            ],
+            "country_of_origin": "Middle East",
+            "prep_time": "15 minutes",
+            "cook_time": "25 minutes",
+            "yield": "8 servings",
+            "public_url": "https://drive.google.com/file/d/1zFytgf145BR6omsvWR3jI6DL6bmSwd4c/view?usp=sharing"
+        },
+        {
+            "id": 119,
+            "dish_name": "Weekend Lunch",
+            "dish_type": "Main",
+            "taste_category": "Savory",
+            "ingredients": [
+                "500 grams chicken",
+                "2 cups rice",
+                "1 onion, sliced",
+                "1 tablespoon ginger-garlic paste",
+                "1 teaspoon turmeric powder",
+                "1 teaspoon garam masala",
+                "3 tablespoons oil",
+                "Salt to taste"
+            ],
+            "instructions": [
+                "Heat oil, sauté onions until golden, add ginger-garlic paste.",
+                "Add chicken, turmeric, garam masala, and salt, cook until browned.",
+                "Stir in rice and 4 cups water, simmer for 20 minutes.",
+                "Serve hot."
+            ],
+            "country_of_origin": "Unknown",
+            "prep_time": "15 minutes",
+            "cook_time": "30 minutes",
+            "yield": "4 servings",
+            "public_url": "https://drive.google.com/file/d/1FOHnYPo3AZNN_pmXOcLKVZ0--tt0j4zV/view?usp=sharing"
+        },
+        {
+            "id": 120,
+            "dish_name": "Chicken Hariyali Kebab",
+            "dish_type": "Appetizer",
+            "taste_category": "Savory",
+            "ingredients": [
+                "500 grams chicken, cubed",
+                "1 cup cilantro, blended",
+                "1/2 cup mint, blended",
+                "1 tablespoon ginger-garlic paste",
+                "1 teaspoon green chili paste",
+                "1 tablespoon yogurt",
+                "2 tablespoons oil",
+                "Salt to taste",
+                "Skewers"
+            ],
+            "instructions": [
+                "Marinate chicken with cilantro, mint, ginger-garlic paste, green chili, yogurt, and salt for 2 hours.",
+                "Thread onto skewers.",
+                "Grill or bake at 200°C (400°F) for 20 minutes.",
+                "Serve with chutney."
+            ],
+            "country_of_origin": "India",
+            "prep_time": "15 minutes",
+            "cook_time": "20 minutes",
+            "yield": "4 servings",
+            "public_url": "https://drive.google.com/file/d/1tw1mpCdwXrMSSyVmv-nqwoDj35zY0U_C/view?usp=sharing"
+        },
+        {
+            "id": 121,
+            "dish_name": "Piyaju",
+            "dish_type": "Appetizer",
+            "taste_category": "Savory",
+            "ingredients": [
+                "1 cup lentils, soaked",
+                "1 onion, sliced",
+                "2 green chilies, chopped",
+                "1 teaspoon cumin-coriander powder",
+                "1 teaspoon garam masala",
+                "1 tablespoon gram flour",
+                "1 teaspoon baking powder",
+                "Oil for frying",
+                "Salt to taste"
+            ],
+            "instructions": [
+                "Blend soaked lentils coarsely, mix with onion, chilies, spices, gram flour, baking powder, and salt.",
+                "Shape into fritters.",
+                "Heat oil and fry until crispy and golden.",
+                "Serve hot."
+            ],
+            "country_of_origin": "Bangladesh",
+            "prep_time": "20 minutes",
+            "cook_time": "15 minutes",
+            "yield": "10-12 pieces",
+            "public_url": "https://drive.google.com/file/d/1wqpWzFNX6G6tUNRfHNEgeajzjYThJ1aJ/view?usp=sharing"
+        },
+        {
+            "id": 122,
+            "dish_name": "Kofta Biriyani",
+            "dish_type": "Main",
+            "taste_category": "Savory",
+            "ingredients": [
+                "500 grams ground chicken",
+                "2 cups basmati rice",
+                "1 onion, sliced",
+                "1 tablespoon ginger-garlic paste",
+                "1 teaspoon garam masala",
+                "1 tablespoon yogurt",
+                "1 teaspoon biriyani masala",
+                "3 tablespoons ghee",
+                "Salt to taste"
+            ],
+            "instructions": [
+                "Make koftas with chicken, ginger-garlic paste, garam masala, and salt, then air fry.",
+                "Heat ghee, sauté onions, add spices, yogurt, and rice.",
+                "Add water and cook rice halfway, then layer with koftas.",
+                "Cook on low heat for 20 minutes.",
+                "Serve hot."
+            ],
+            "country_of_origin": "Bangladesh",
+            "prep_time": "30 minutes",
+            "cook_time": "40 minutes",
+            "yield": "4 servings",
+            "public_url": "https://drive.google.com/file/d/1UuH9cqNALDXaKnUR-SIaaVsSbTyFC0_e/view?usp=sharing"
+        },
+        {
+            "id": 123,
+            "dish_name": "Bhorta, Daal",
+            "dish_type": "Side",
+            "taste_category": "Savory",
+            "ingredients": [
+                "2 boiled potatoes",
+                "1 cup red lentils",
+                "1 onion, sliced",
+                "2 green chilies",
+                "1 teaspoon turmeric powder",
+                "2 tablespoons mustard oil",
+                "Salt to taste"
+            ],
+            "instructions": [
+                "Mash potatoes with chilies, onion, mustard oil, and salt for bhorta.",
+                "Cook lentils with turmeric and salt until soft.",
+                "Serve bhorta and daal together with rice."
+            ],
+            "country_of_origin": "Bangladesh",
+            "prep_time": "15 minutes",
+            "cook_time": "20 minutes",
+            "yield": "4 servings",
+            "public_url": "https://drive.google.com/file/d/1gq75SFrl2s4DR4-75wilkTaunqTpG7nZ/view?usp=sharing"
+        },
+        {
+            "id": 124,
+            "dish_name": "Orosher Biriyani",
+            "dish_type": "Main",
+            "taste_category": "Savory",
+            "ingredients": [
+                "1 kg beef",
+                "700 grams parboiled rice",
+                "1 cup yogurt",
+                "1 tablespoon ginger-garlic paste",
+                "1 teaspoon biriyani masala",
+                "1/2 cup chickpeas, soaked",
+                "3 tablespoons ghee",
+                "Salt to taste"
+            ],
+            "instructions": [
+                "Marinate beef with yogurt, ginger-garlic paste, and spices for 2 hours.",
+                "Heat ghee, sauté onions, add beef, and cook until 80% done.",
+                "Add chickpeas, rice, and water, cook until rice is done.",
+                "Serve hot."
+            ],
+            "country_of_origin": "Bangladesh",
+            "prep_time": "30 minutes",
+            "cook_time": "1 hour",
+            "yield": "6 servings",
+            "public_url": "https://drive.google.com/file/d/1pAhaEhDlP1omUc5ykvNgnO5-YpCdA1J7/view?usp=sharing"
+        },
+        {
+            "id": 125,
+            "dish_name": "Chicken Roast",
+            "dish_type": "Main",
+            "taste_category": "Savory",
+            "ingredients": [
+                "4 chicken leg quarters",
+                "1 tablespoon ginger-garlic paste",
+                "1 teaspoon red chili powder",
+                "1 teaspoon turmeric powder",
+                "1 cup yogurt",
+                "1 teaspoon garam masala",
+                "3 tablespoons ghee",
+                "Salt to taste"
+            ],
+            "instructions": [
+                "Marinate chicken with spices and salt, fry until golden.",
+                "Heat ghee, sauté onions, add ginger-garlic paste and yogurt.",
+                "Add chicken and cook until tender, about 30 minutes.",
+                "Serve hot."
+            ],
+            "country_of_origin": "Bangladesh",
+            "prep_time": "20 minutes",
+            "cook_time": "40 minutes",
+            "yield": "4 servings",
+            "public_url": "https://drive.google.com/file/d/1NaK7NpaOM4YZMfT0K6GNnga5Nq5WgAqg/view?usp=sharing"
+        },
+        {
+            "id": 126,
+            "dish_name": "Maqluba",
+            "dish_type": "Main",
+            "taste_category": "Savory",
+            "ingredients": [
+                "500 grams chicken",
+                "2 cups rice",
+                "1 eggplant, sliced",
+                "1 onion, sliced",
+                "1 teaspoon allspice",
+                "2 tablespoons oil",
+                "Salt to taste"
+            ],
+            "instructions": [
+                "Fry eggplant slices until golden, set aside.",
+                "Cook chicken with salt and spices, reserve broth.",
+                "Layer chicken, eggplant, and rice in a pot, add broth.",
+                "Cook until rice is done, then invert onto a plate.",
+                "Serve hot."
+            ],
+            "country_of_origin": "Middle East",
+            "prep_time": "20 minutes",
+            "cook_time": "40 minutes",
+            "yield": "4 servings",
+            "public_url": "https://drive.google.com/file/d/1rsKPj_NO_-b4lyb2ew4K07k9DKvIxJ_S/view?usp=sharing"
+        },
+        {
+            "id": 127,
+            "dish_name": "Malai Jorda",
+            "dish_type": "Dessert",
+            "taste_category": "Sweet",
+            "ingredients": [
+                "2 cups chinigura rice",
+                "1 cup sugar",
+                "1/2 cup ghee",
+                "1 cup milk",
+                "1 tablespoon condensed milk",
+                "1/4 cup mixed nuts",
+                "1 teaspoon orange food color"
+            ],
+            "instructions": [
+                "Cook rice with orange color and peel until 80% done.",
+                "Heat ghee, sauté nuts, add sugar and rice, cook until syrupy.",
+                "Mix milk and condensed milk, cook until thickened for malai.",
+                "Serve rice topped with malai and nuts."
+            ],
+            "country_of_origin": "Bangladesh",
+            "prep_time": "20 minutes",
+            "cook_time": "30 minutes",
+            "yield": "6 servings",
+            "public_url": "https://drive.google.com/file/d/1At4CVpQVUuozO5ufJ7tVgpXav_yckwb8/view?usp=sharing"
+        },
+        {
+            "id": 128,
+            "dish_name": "Thai Soup and Momo",
+            "dish_type": "Main",
+            "taste_category": "Spicy",
+            "ingredients": [
+                "200 grams chicken",
+                "1 cup flour",
+                "1 tablespoon soy sauce",
+                "1 teaspoon chili flakes",
+                "1 tablespoon ginger, sliced",
+                "4 cups chicken broth",
+                "Salt to taste"
+            ],
+            "instructions": [
+                "Make dough with flour and water, roll out, and fill with seasoned chicken for momos.",
+                "Steam momos for 15 minutes.",
+                "Boil broth with ginger, soy sauce, and chili flakes for soup.",
+                "Serve momos with hot soup."
+            ],
+            "country_of_origin": "Thailand",
+            "prep_time": "30 minutes",
+            "cook_time": "20 minutes",
+            "yield": "4 servings",
+            "public_url": "https://drive.google.com/file/d/1m97pSzIzzt_8pBWd9vONAcmICwjBYNAd/view?usp=sharing"
+        },
+        {
+            "id": 129,
+            "dish_name": "Chicken 65 Biriyani",
+            "dish_type": "Main",
+            "taste_category": "Spicy",
+            "ingredients": [
+                "500 grams chicken cubes",
+                "2 cups basmati rice",
+                "1 egg",
+                "1 tablespoon cornstarch",
+                "1 teaspoon garam masala",
+                "1 onion, sliced",
+                "1 tablespoon ginger-garlic paste",
+                "3 tablespoons ghee",
+                "Salt to taste"
+            ],
+            "instructions": [
+                "Marinate chicken with egg, cornstarch, and spices, fry until crispy.",
+                "Heat ghee, sauté onions, add spices and rice.",
+                "Layer rice with fried chicken, cook on low for 20 minutes.",
+                "Serve hot."
+            ],
+            "country_of_origin": "India",
+            "prep_time": "30 minutes",
+            "cook_time": "40 minutes",
+            "yield": "4 servings",
+            "public_url": "https://drive.google.com/file/d/1qhAG5yys0z0HQ3teawX3xnT1Fe_umqlr/view?usp=sharing"
+        },
+        {
+            "id": 130,
+            "dish_name": "Beef Sheek Kebab",
+            "dish_type": "Appetizer",
+            "taste_category": "Savory",
+            "ingredients": [
+                "500 grams ground beef",
+                "1 onion, minced",
+                "1 tablespoon ginger-garlic paste",
+                "1 teaspoon garam masala",
+                "1 teaspoon chili flakes",
+                "2 tablespoons butter",
+                "Salt to taste",
+                "Skewers"
+            ],
+            "instructions": [
+                "Mix beef with onion, ginger-garlic paste, spices, and salt.",
+                "Shape onto skewers.",
+                "Fry in butter until browned, about 15 minutes.",
+                "Serve hot."
+            ],
+            "country_of_origin": "India",
+            "prep_time": "20 minutes",
+            "cook_time": "15 minutes",
+            "yield": "6 servings",
+            "public_url": "https://drive.google.com/file/d/1enErOlmXSoGTFEYDCZ_L5KCXzxJxS-do/view?usp=sharing"
+        },
+        {
+            "id": 131,
+            "dish_name": "Tuna Kebab",
+            "dish_type": "Appetizer",
+            "taste_category": "Savory",
+            "ingredients": [
+                "1 can tuna",
+                "1 potato, mashed",
+                "1 tablespoon ginger-garlic paste",
+                "1 teaspoon garam masala",
+                "1 egg",
+                "1/4 cup breadcrumbs",
+                "Oil for frying",
+                "Salt to taste"
+            ],
+            "instructions": [
+                "Mix tuna, potato, ginger-garlic paste, garam masala, egg yolk, and salt.",
+                "Shape into patties, coat with egg white and breadcrumbs.",
+                "Fry until golden, about 10 minutes.",
+                "Serve hot."
+            ],
+            "country_of_origin": "Unknown",
+            "prep_time": "15 minutes",
+            "cook_time": "10 minutes",
+            "yield": "6 pieces",
+            "public_url": "https://drive.google.com/file/d/1zSIqOL7Wmn9XEnaXVb6wdBjlnHVG5oBT/view?usp=sharing"
+        },
+        {
+            "id": 132,
+            "dish_name": "Tandoori Fish",
+            "dish_type": "Main",
+            "taste_category": "Spicy",
+            "ingredients": [
+                "2 pomfret fish",
+                "1 cup yogurt",
+                "1 tablespoon ginger-garlic paste",
+                "1 teaspoon red chili powder",
+                "1 teaspoon garam masala",
+                "1 tablespoon lemon juice",
+                "2 tablespoons mustard oil",
+                "Salt to taste"
+            ],
+            "instructions": [
+                "Marinate fish with yogurt, ginger-garlic paste, spices, lemon juice, and mustard oil for 1 hour.",
+                "Bake at 180°C (350°F) for 50 minutes, broil for a few minutes.",
+                "Serve hot."
+            ],
+            "country_of_origin": "India",
+            "prep_time": "15 minutes",
+            "cook_time": "50 minutes",
+            "yield": "2 servings",
+            "public_url": "https://drive.google.com/file/d/1i3g5ye-d36SzZgV9lje6fiEHmMGBOH9D/view?usp=sharing"
+        },
+        {
+            "id": 133,
+            "dish_name": "Sheer Khurma",
+            "dish_type": "Dessert",
+            "taste_category": "Sweet",
+            "ingredients": [
+                "1 liter milk",
+                "1/2 cup vermicelli",
+                "1/4 cup condensed milk",
+                "1/4 cup mixed nuts",
+                "1 tablespoon ghee",
+                "Sugar to taste"
+            ],
+            "instructions": [
+                "Sauté vermicelli and nuts in ghee until golden.",
+                "Simmer milk until reduced, add condensed milk and sugar.",
+                "Stir in vermicelli and nuts, cook until thickened.",
+                "Serve warm or chilled."
+            ],
+            "country_of_origin": "India",
+            "prep_time": "15 minutes",
+            "cook_time": "30 minutes",
+            "yield": "4 servings",
+            "public_url": "https://drive.google.com/file/d/1ENjfMaFn4o-EtQgbDo-TZYOK7ptmrkv1/view?usp=sharing"
+        },
+        {
+            "id": 134,
+            "dish_name": "Beef Haleem",
+            "dish_type": "Main",
+            "taste_category": "Savory",
+            "ingredients": [
+                "500 grams beef",
+                "1 cup mixed lentils",
+                "1/2 cup wheat",
+                "1 onion, sliced",
+                "1 tablespoon ginger-garlic paste",
+                "1 teaspoon garam masala",
+                "3 tablespoons ghee",
+                "Salt to taste"
+            ],
+            "instructions": [
+                "Cook beef, lentils, and wheat with salt until tender, blend into a paste.",
+                "Heat ghee, sauté onions, add ginger-garlic paste and garam masala.",
+                "Mix in blended mixture, cook until thick.",
+                "Serve hot."
+            ],
+            "country_of_origin": "Pakistan",
+            "prep_time": "30 minutes",
+            "cook_time": "1 hour",
+            "yield": "6 servings",
+            "public_url": "https://drive.google.com/file/d/1mJPcVM2hWUDZDbgq-ECGJMiPxerPCaFQ/view?usp=sharing"
+        },
+        {
+            "id": 135,
+            "dish_name": "Butter Garlic Toast",
+            "dish_type": "Appetizer",
+            "taste_category": "Savory",
+            "ingredients": [
+                "4 slices bread",
+                "2 tablespoons butter",
+                "2 cloves garlic, minced",
+                "1 teaspoon chili flakes",
+                "1/4 cup mozzarella cheese",
+                "Salt to taste"
+            ],
+            "instructions": [
+                "Mix butter, garlic, chili flakes, and salt.",
+                "Spread on bread, top with cheese.",
+                "Air fry at 200°C (400°F) for 5-6 minutes.",
+                "Serve hot."
+            ],
+            "country_of_origin": "Unknown",
+            "prep_time": "10 minutes",
+            "cook_time": "6 minutes",
+            "yield": "4 pieces",
+            "public_url": "https://drive.google.com/file/d/1R2FFrNVI-_D4MXoRO0RE3P77SKP9jRa2/view?usp=sharing"
+        },
+        {
+            "id": 136,
+            "dish_name": "Chicken Patties",
+            "dish_type": "Appetizer",
+            "taste_category": "Savory",
+            "ingredients": [
+                "300 grams ground chicken",
+                "1 onion, minced",
+                "1 tablespoon ginger-garlic paste",
+                "1 teaspoon garam masala",
+                "1 egg",
+                "1/4 cup breadcrumbs",
+                "Oil for frying",
+                "Salt to taste"
+            ],
+            "instructions": [
+                "Mix chicken with onion, ginger-garlic paste, garam masala, egg, and salt.",
+                "Shape into patties, coat with breadcrumbs.",
+                "Fry until golden, about 10 minutes.",
+                "Serve hot."
+            ],
+            "country_of_origin": "Unknown",
+            "prep_time": "15 minutes",
+            "cook_time": "10 minutes",
+            "yield": "6 patties",
+            "public_url": "https://drive.google.com/file/d/1uW821uKWOzICUeIZotqAwksqvMtr9ipv/view?usp=sharing"
+        },
+        {
+            "id": 137,
+            "dish_name": "Semolina Barfi",
+            "dish_type": "Dessert",
+            "taste_category": "Sweet",
+            "ingredients": [
+                "1 cup semolina",
+                "1/2 cup sugar",
+                "1/4 cup ghee",
+                "1 cup milk",
+                "1/4 teaspoon cardamom powder"
+            ],
+            "instructions": [
+                "Heat ghee, roast semolina until golden.",
+                "Add sugar, milk, and cardamom, cook until thickened.",
+                "Pour into a greased plate, cool, and cut into pieces.",
+                "Serve."
+            ],
+            "country_of_origin": "India",
+            "prep_time": "10 minutes",
+            "cook_time": "20 minutes",
+            "yield": "8 pieces",
+            "public_url": "https://drive.google.com/file/d/1Or2_6IQfVUpdpXx-JGbKneEb0kj8ogdA/view?usp=sharing"
+        },
+        {
+            "id": 138,
+            "dish_name": "Shrimp Bhuna",
+            "dish_type": "Main",
+            "taste_category": "Spicy",
+            "ingredients": [
+                "500 grams shrimp",
+                "1 onion, sliced",
+                "1 tablespoon ginger-garlic paste",
+                "1 teaspoon turmeric powder",
+                "1 teaspoon red chili powder",
+                "2 tablespoons oil",
+                "Salt to taste",
+                "Fresh cilantro for garnish"
+            ],
+            "instructions": [
+                "Heat oil, sauté onions until golden.",
+                "Add ginger-garlic paste, spices, and shrimp.",
+                "Cook until shrimp is pink and masala coats it, about 10 minutes.",
+                "Garnish with cilantro and serve."
+            ],
+            "country_of_origin": "Bangladesh",
+            "prep_time": "15 minutes",
+            "cook_time": "15 minutes",
+            "yield": "4 servings",
+            "public_url": "https://drive.google.com/file/d/1YfEoprWZI0cLLfzZHBgCyCAGQSSqFimW/view?usp=sharing"
+        },
+        {
+            "id": 139,
+            "dish_name": "Shim with Shutki",
+            "dish_type": "Main",
+            "taste_category": "Savory",
+            "ingredients": [
+                "200 grams dried fish (shutki)",
+                "2 cups beans (shim)",
+                "1 onion, sliced",
+                "1 teaspoon turmeric powder",
+                "1 teaspoon red chili powder",
+                "1 teaspoon cumin-coriander powder",
+                "2 tablespoons oil",
+                "Salt to taste",
+                "Fresh cilantro for garnish"
+            ],
+            "instructions": [
+                "Heat oil, sauté onions until golden.",
+                "Add spices and dried fish, cook for 5 minutes.",
+                "Stir in beans, water, and salt, cook until tender, about 20 minutes.",
+                "Garnish with cilantro and serve with rice."
+            ],
+            "country_of_origin": "Bangladesh",
+            "prep_time": "15 minutes",
+            "cook_time": "25 minutes",
+            "yield": "4 servings",
+            "public_url": "https://drive.google.com/file/d/1Pbngd_uQg6iguW9k6UwkWUNC3aDH1puK/view?usp=sharing"
+        }
+    ]
+}
