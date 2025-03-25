@@ -723,7 +723,7 @@ class RobustUploader:
 def main():
     # Parse command-line arguments
     parser = argparse.ArgumentParser(description='Upload recipes to YouTube with robust error handling')
-    parser.add_argument('--json', default='paste.txt', help='Path to the recipe JSON file')
+    parser.add_argument('--json', default='recipes.json', help='Path to the recipe JSON file')
     parser.add_argument('--credentials', default='credentials.json', help='Path to the Google API credentials file')
     parser.add_argument('--id', help='Specific recipe ID to upload (optional)')
     parser.add_argument('--status', action='store_true', help='Generate a status report only, no upload')

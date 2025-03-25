@@ -142,7 +142,7 @@ def upload_missed_recipes(recipe_json_path, credentials_path, max_uploads=None):
 
 if __name__ == "__main__":
     # Configuration
-    RECIPE_JSON_PATH = "paste.txt"  # Your JSON file path
+    RECIPE_JSON_PATH = "recipes.json"  # Your JSON file path
     CREDENTIALS_PATH = "credentials.json"  # Your credentials file path
     MAX_UPLOADS = 5  # Maximum number of missed recipes to upload at once
     
