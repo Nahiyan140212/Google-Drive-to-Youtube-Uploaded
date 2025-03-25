@@ -186,6 +186,7 @@ used_recipes.json
 # Google API credentials
 credentials.json
 token.json
+recipes.json
 
 # Temporary files
 temp_videos/
